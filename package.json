@@ -1,0 +1,32 @@
+{
+  "name": "contract-out",
+  "version": "1.0.0",
+  "description": "Automated contracting app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregDoming/Contract-Out.git"
+  },
+  "keywords": [
+    "contract"
+  ],
+  "author": "Greg, Sam, Andrew, Andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregDoming/Contract-Out/issues"
+  },
+  "homepage": "https://github.com/GregDoming/Contract-Out#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.3",
+    "pg": "^7.4.3",
+    "react": "^16.4.2",
+    "react-router": "^4.3.1",
+    "twilio": "^3.19.2"
+  }
+}
